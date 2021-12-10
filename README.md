@@ -27,7 +27,7 @@ Finally, download this notebook as a `.ipynb` file and check into a Github Proje
 ### Talk lists
 To create a task list, preface list items with a regular space character followed by [ ]. To mark a task as complete, use [x].
 
-[x]
+[x]. check Correctly.
 [x] #739
 [_] https://github.com/octo-org/octo-repo/issues/740
 [x] Add delight to the experience when all tasks are complete :tada:
