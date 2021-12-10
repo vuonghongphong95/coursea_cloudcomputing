@@ -15,4 +15,4 @@ We use `Print("Hello World")` also part open in start Python propraming
 
 Step by step to complete work.
 
-This is my link [My Link](https://colab.research.google.com/drive/17y9IwJXQB4KZkFxIEUvvEGm7BY1ZQjW-?usp=sharing)
+This is my link [My Link](https://gist.github.com/vuonghongphong95/d90c4a761454242b1f0c923cf4b537d2)
