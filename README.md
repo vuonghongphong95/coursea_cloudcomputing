@@ -20,3 +20,6 @@ This is my link [My Link](https://gist.github.com/vuonghongphong95/d90c4a7614542
 Finally, download this notebook as a `.ipynb` file and check into a Github Project
 
 ### This is [my image](https://myoctocat.com/assets/images/base-octocat.svg)
+1. Picture one
+2. Picture two
+3. Picture three
