@@ -12,3 +12,7 @@ git commit
 Here we only demo some problem Jupyter. 
 
 We use `Print("Hello World")` also part open in start Python propraming 
+
+Step by step to complete work.
+
+This is my link [My Link](https://colab.research.google.com/drive/17y9IwJXQB4KZkFxIEUvvEGm7BY1ZQjW-?usp=sharing)
