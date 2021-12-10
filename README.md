@@ -11,3 +11,4 @@ git commit
 ```
 Here we only demo some problem Jupyter. 
 
+We use `Print("Hello World")` also part open in start Python propraming 
