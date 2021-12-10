@@ -16,3 +16,5 @@ We use `Print("Hello World")` also part open in start Python propraming
 Step by step to complete work.
 
 This is my link [My Link](https://gist.github.com/vuonghongphong95/d90c4a761454242b1f0c923cf4b537d2)
+
+Finally, download this notebook as a '.ipynb' file and check into a Github Project
